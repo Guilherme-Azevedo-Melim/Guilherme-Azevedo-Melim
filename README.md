@@ -1,8 +1,9 @@
 ## Olá eu sou o Guilherme Azevedo Melim 
 
--🎓Hoje Formado em Front-End(Buscando Primeira oportunidade)
--📚 Estudando Back-End
--😁 Pronomuns: Ele/Dele
+-🎓 Formado em Front-End (Buscando Primeira oportunidade)<br>
+-📚 Estudando Back-End <br>
+-📚 Estudante da faculdade UNIP (ADS) <br>
+-😁 Pronomuns: Ele/Dele <br>
 
 <div align="center">
   <a href="https://github.com/Guilherme-Azevedo-Melim">
