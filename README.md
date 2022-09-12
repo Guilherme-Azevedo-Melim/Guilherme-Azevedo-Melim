@@ -1,8 +1,8 @@
 ## Olá eu sou o Guilherme Azevedo Melim 
 
 -🎓 Formado em Front-End (Buscando Primeira oportunidade)<br>
--📚 Estudando Back-End <br>
--📚 Estudante na faculdade UNIP (ADS) <br>
+-📚 Estudando Back-End pela Labenu <br>
+-📚 Estudando Analise e Desenvolvimento de Sistemas (ADS) pela UNIP <br>
 -😁 Pronomuns: Ele/Dele <br>
 
 <div align="center">
