@@ -2,7 +2,7 @@
 
 -🎓 Formado em Front-End (Buscando Primeira oportunidade)<br>
 -📚 Estudando Back-End <br>
--📚 Estudante da faculdade UNIP (ADS) <br>
+-📚 Estudante na faculdade UNIP (ADS) <br>
 -😁 Pronomuns: Ele/Dele <br>
 
 <div align="center">
