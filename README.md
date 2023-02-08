@@ -3,7 +3,7 @@
 -🎓 Formado em Front-End (Buscando Primeira oportunidade)<br>
 -📚 Estudando Back-End pela Labenu <br>
 -📚 Estudando Analise e Desenvolvimento de Sistemas (ADS) pela UNIP <br>
--😁 Pronomuns: Ele/Dele <br>
+-😁 Pronomes: Ele/Dele <br>
 
 <div align="center">
   <a href="https://github.com/Guilherme-Azevedo-Melim">
